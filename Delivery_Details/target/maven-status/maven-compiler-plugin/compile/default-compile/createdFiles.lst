@@ -1,0 +1,13 @@
+com\foodmenu\springbootfoodimages\controller\copy\DeliveryDetailsController.class
+com\foodmenu\springbootfoodimages\repositary\copy\ImageGalleryRepository.class
+com\foodmenu\springbootfoodimages\service\copy\ImageGalleryService.class
+com\foodmenu\springbootfoodimages\SpringBootFoodImagesApplication.class
+com\foodmenu\springbootfoodimages\controller\copy\package-info.class
+com\foodmenu\springbootfoodimages\entity\copy\DeliveryDetails.class
+com\foodmenu\springbootfoodimages\service\copy\DeliveryDetailsService.class
+com\foodmenu\springbootfoodimages\controller\copy\ImageGalleryController.class
+com\foodmenu\springbootfoodimages\repositary\copy\package-info.class
+com\foodmenu\springbootfoodimages\repositary\copy\DeliveryDetailsRepository.class
+com\foodmenu\springbootfoodimages\entity\copy\package-info.class
+com\foodmenu\springbootfoodimages\service\copy\package-info.class
+com\foodmenu\springbootfoodimages\entity\copy\ImageGallery.class
